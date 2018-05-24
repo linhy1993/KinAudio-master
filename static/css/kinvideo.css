@@ -1,0 +1,101 @@
+body {
+    padding: 0 10%;
+}
+
+footer {
+    position: relative;
+    background: #1C1C1C;
+    margin: 50px 0 0;
+    padding: 4%;
+    width: 92%;
+    line-height: normal;
+    overflow: auto;
+}
+
+footer .wrap {
+    color: #ABABAB;
+    line-height: 1.5em;
+    padding: 0 1% 50px;
+    float: left;
+    height: 230px;
+}
+
+footer h3 {
+    color: #ABABAB;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: normal;
+    line-height: normal;
+    margin: 0 0 20px;
+}
+
+footer li a {
+    text-decoration: none;
+    -webkit-tap-highlight-color: #ABABAB;
+    color: #ABABAB;
+}
+
+footer li a:visited {
+    text-decoration: underline;
+    -webkit-tap-highlight-color: #ABABAB;
+    color: #ABABAB;
+}
+
+footer li a:active {
+    text-decoration: underline;
+    -webkit-tap-highlight-color: #ABABAB;
+    color: #ABABAB;
+}
+
+footer li a:hover {
+    text-decoration: underline;
+    -webkit-tap-highlight-color: #ABABAB;
+    color: #ABABAB;
+}
+
+footer .submit {
+    display: block;
+    margin: 20px 0 0;
+    background: #DC292C;
+    border: none;
+    color: #FFF;
+}
+
+footer input {
+    outline: none;
+}
+
+footer .bottom {
+    position: absolute;
+    width: 100%;
+    padding: 10px 6%;
+    color: #666;
+    line-height: 1.6em;
+    background: #000;
+    left: 0;
+    bottom: 0;
+}
+
+
+.recording{
+    color: red;
+}
+
+.well{
+    cursor:pointer;
+}
+.well li{
+    list-style:none;
+}
+
+.title{
+    font-size: 18px;
+}
+
+.key-word-list{
+    margin-top: 5px;
+}
+
+.well-no-bottom{
+    margin-bottom: 0!important;
+}
